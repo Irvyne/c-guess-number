@@ -19,7 +19,7 @@ Choose a number between 1 and 100: 14
 It's less!
 Choose a number between 1 and 100: 13
 
-Congrats, you've found the mystery number (difficulty level 1) in 8 hit(s)!!!
+Congrats, you've found the mystery number (difficulty level 1) in 7 hit(s)!!!
 Do you wanna play again (1 for yes | 0 for no)? 0
 
 ***********
